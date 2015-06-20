@@ -1,8 +1,10 @@
 <?php
+
 /*
 **    DYNAMO
 **    Rambod Rahmani <rambodrahmani@yahoo.it>
 */
+
 ?>
 
 <!DOCTYPE html>

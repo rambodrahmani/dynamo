@@ -1,8 +1,10 @@
 <?php
+
 /*
 **    DYNAMO
 **    Rambod Rahmani <rambodrahmani@yahoo.it>
 */
+
 	include 'config.php';
 
 	$device_authentication_type = null;

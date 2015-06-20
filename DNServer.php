@@ -1,8 +1,10 @@
 <?
+
 /*
 **    DYNAMO
 **    Rambod Rahmani <rambodrahmani@yahoo.it>
 */
+
     class DNServer
     {
         var $func;

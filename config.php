@@ -1,8 +1,10 @@
 <?php
+
 /*
 **    DYNAMO
 **    Rambod Rahmani <rambodrahmani@yahoo.it>
 */
+
 	$debugMode = true;
 
 	$ips['domain_test.com']['A'] = '127.0.0.1';
