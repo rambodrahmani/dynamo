@@ -38,20 +38,6 @@
 	}
 	
 	$conn->close();
-
-	if ($device_authentication_type == "temporary")
-	{
-		if ($device_type == "iOS")
-		{
-			header('Location: https://itunes.apple.com/us/app/boccaccio-club/id950398450?ls=1&mt=8');
-			die();
-		}
-		else if ($device_type == "Android")
-		{
-			header('Location: Android_APP_STORE_URL');
-			die();
-		}
-	}
 ?>
 
 <!DOCTYPE html>

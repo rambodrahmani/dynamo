@@ -24,7 +24,6 @@
 		    	Browsers = new WhichBrowser();
 		    	if (Browsers.isOs('iOS', '>=', '2'))
 		    	{
-					window.location.replace("iOSBoccaccioApp://?boccaccioIosAppVerified");
 					window.setTimeout(function(){
 													window.location.replace("authenticate.php?device_type=iOS" + "&device_authentication_type=temporary");
 												},
@@ -32,7 +31,6 @@
 		    	}
 		    	else if (Browsers.isOs('Android', '>=', '2'))
 		    	{
-		    		window.location.replace("URL_PER_VERIFICARE_APP_ANDROID");
 					window.setTimeout(function(){
 													window.location.replace("authenticate.php?device_type=Android" + "&device_authentication_type=temporary");
 												},
