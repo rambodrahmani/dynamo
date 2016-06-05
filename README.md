@@ -13,3 +13,5 @@ How-to:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Assign the IP Address of the RPi to the PRIMARY and SECONDARY DNS Server of you router.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Set the required parameters in "config.php".  
 &nbsp;&nbsp;&nbsp;&nbsp;4. Run start.php from terminal.  
+
+Rambod Rahmani <rambodrahmani@autistici.org>
