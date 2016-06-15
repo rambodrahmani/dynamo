@@ -14,4 +14,6 @@ How-to:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Set the required parameters in "config.php".  
 &nbsp;&nbsp;&nbsp;&nbsp;4. Run start.php from terminal.  
 
-Rambod Rahmani <rambodrahmani@autistici.org>
+--
+
+Rambod Rahmani <<rambodrahmani@autistici.org>>
